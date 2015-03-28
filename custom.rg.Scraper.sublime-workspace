@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"summ",
+				"summaryText"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"curr",
+				"currentPart"
+			],
+			[
+				"current",
+				"currentScreen"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 95.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/storage/Users/mhulse/github/mhulse/custom.rg.Scraper"
+	],
+	"file_history":
+	[
+		"/Volumes/storage/Users/mhulse/github/mhulse/delim/README.md",
+		"/Volumes/storage/Users/mhulse/github/mhulse/delim/.gitignore",
+		"/Volumes/storage/Users/mhulse/github/mhulse/delim/delim/custom.rg.Delim.cls",
+		"/Volumes/storage/Users/mhulse/github/mhulse/benjamins/.gitignore",
+		"/Volumes/storage/Users/mhulse/github/mhulse/benjamins/README.md",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-ad-manager/README.md",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-ad-manager/.gitmodules",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-ad-manager/setup.py",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/.git/HEAD",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/README.md",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/setup.py",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/dox/admin.py",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/dox/templatetags/splitter.py",
+		"/Volumes/storage/Users/mhulse/github/mhulse/django-dox/.gitignore",
+		"/Volumes/storage/Users/mhulse/github/mhulse/html-dummies/frameworks/backbone.html",
+		"/Volumes/storage/Users/mhulse/github/mhulse/html-dummies/README.md",
+		"/Volumes/storage/Users/mhulse/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/site/assets/scripts/weather.js",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/directorya/index.html",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/maps/index.html",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/events/index.html",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/directorya/restaurants.json",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/directory.css",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/etc/mime.types",
+		"/Volumes/storage/Users/mhulse/Desktop/micronet.txt",
+		"/Volumes/storage/Users/mhulse/Desktop/grunt-js-boiler/.gitignore",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/directorya/restaurant-1058.json",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/README.md",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/General Notes.txt",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/micronet-api-usage-notes.txt",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/weather-data-api-notes.txt",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/data/.gitkeep",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/events/README.md",
+		"/Volumes/storage/Users/mhulse/github/ieq/scc-touchscreen/Site Work/events/index.bak.html",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/assets/scripts/detective.js",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/detective.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/reasons.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/assets/style/icon.css",
+		"/Volumes/storage/Users/mhulse/github/index.html",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/helpful-tips.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/list.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/assets/style/stylesheet.css",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/detective-intro.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/assets/style/detective.css",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/library.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/includes/fragment/calculator-insert.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/action-plan.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/includes/json/support-team.json",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/includes/template/top.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/videos.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/calculator.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/detective-skip.jsp",
+		"/Volumes/storage/Users/mhulse/github/ieq/mobile-quit/README.md",
+		"/Users/mhulse/github/ieq/mobile-quit/calculator.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/detective-exit.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/includes/template/top.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/detective.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/detective-intro.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/detective.css",
+		"/Users/mhulse/github/ieq/mobile-quit/index-original.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/get-kv-pair.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/list.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/helpful-tips.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/includes/json/support-team.json",
+		"/Users/mhulse/github/ieq/mobile-quit/mq-template.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/nrt.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/save-kv-pair.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/short-list.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/strategies.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/spirals.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/table.html",
+		"/Users/mhulse/github/ieq/mobile-quit/table2.html",
+		"/Users/mhulse/github/ieq/mobile-quit/action-plan.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/stylesheet.css",
+		"/Users/mhulse/github/ieq/mobile-quit/library.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/index.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/video-js.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/Untitled-1.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/stylesheet2.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/responsiveHeader.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/rangeslider.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/jquery.sidr.dark.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/jquery.sidr.light.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/jquery-ui.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/jquery-ui copy.css",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/style/jquery-ui-v1.11.0.css",
+		"/Users/mhulse/github/ieq/mobile-quit/includes/top.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/includes/bottom.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/873AD6E3-564A-4F12-934A-4EDA2B1A2014/index.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/2295D509-FADB-420A-B03A-72054847EC99/mqTemplate.jsp",
+		"/Users/mhulse/github/ieq/mobile-quit/assets/scripts/mobile-quit.js",
+		"/Users/mhulse/github/ieq/mobile-quit/README.md",
+		"/Users/mhulse/.bash_profile",
+		"/Users/mhulse/.bash_functions",
+		"/Users/mhulse/.bash_aliases",
+		"/Users/mhulse/github/mobile-quit/README.md",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/B49927C9-9375-436B-B453-9839C6DD32A2/detective.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/E6DBC92F-CC2B-441D-A913-EFE7DBD022E3/list.jsp",
+		"/Users/mhulse/github/mobile-quit/web/money-saved/calc-box/styles.css",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/30645293-2B2B-462F-A055-4F04B69037A5/stylesheet.css",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/test.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/services.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/resume.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio06.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio05.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio04.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio03.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio02.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio01.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/portfolio.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/index.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/ieq8.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/get-started.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/contact.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/careers.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/about-company.html",
+		"/Volumes/inetpub/wwwroot/ieqtechnology.com/about-blog.html",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/D1D1368F-2276-4EDC-A75F-5699454FC7C5/videos.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/9456EE4A-25D5-4B1C-9F1D-32FA07674DCE/support-team.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/D87A6FA9-2DF0-43FA-811F-04D03DE9A682/strategies.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/441BB4D0-8B63-4892-AA1C-0ED04CC28F82/spirals.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/2DB15D4B-4D58-4FD8-B3B7-A7A99B5B2D06/skippedDetective.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/325AFC23-38EB-4B0F-9998-4BCF9E20EEF3/shortList.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/F2540C20-D24D-460D-A173-8E587A0245EA/saveKVPair.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/D1AB1CF7-657B-4905-AE83-E7298DDAA0D5/list.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/E4DBEE1E-CC64-4BB0-8178-8BF3DFB55455/nrt.jsp",
+		"/Users/mhulse/Library/Caches/Cleanup At Startup/Transmit/4907E8ED-DC91-4F7C-B093-73D876040420/mqTemplate.jsp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 328.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"regi",
+			"registerguard",
+			"register",
+			"registerguard",
+			"registerg",
+			"micky@mhulse.com",
+			"registerguard",
+			"register",
+			"micky@registerguard",
+			"register",
+			"reset",
+			" type=\"text/javascript\"",
+			"http:",
+			"icons/",
+			"\"../",
+			"../../",
+			"count",
+			" type=\"text/css\"",
+			"svg",
+			"members",
+			"phone",
+			"805",
+			"eventdata",
+			"tap",
+			"tap on icon",
+			"tap an icon ",
+			"writeIn",
+			"showInstructionsInOverlay",
+			"class=\"cell\"></span>",
+			"-sans",
+			"hideListSlider",
+			"listoverlay",
+			"rgba",
+			"opacity",
+			"cigsPerDayOut",
+			"updateSpendingValuesAlt",
+			" gray\" id=\"",
+			"gray\"",
+			"class=\"gray",
+			" gray\"",
+			"gray",
+			"returnShow",
+			"}'",
+			"'{",
+			"green();",
+			"red();",
+			"nav(",
+			"onclick=\"nav(",
+			"nav(",
+			"nav(0,0);",
+			"updateSummaryScreen",
+			"dialog",
+			"screenObj",
+			"iconClicked",
+			"currentScreen",
+			"goNext",
+			"d",
+			"goNext",
+			"returnTosumm",
+			"returnNav",
+			"leftRightNav",
+			"returnNav",
+			"returnToSummary",
+			"selectScreen",
+			"returnToSummary",
+			"returnNav",
+			"2",
+			"returnNav",
+			"returnToSummary",
+			"return",
+			"1000",
+			"background-color",
+			"flagged",
+			"input",
+			"titleText",
+			"head",
+			"scroll",
+			"placeholder=\"",
+			"placeholder",
+			"detective",
+			"button",
+			"skipped",
+			"clone",
+			"src=\"images/",
+			"../images/",
+			"getKv",
+			"getKvPair",
+			"kv",
+			"original.jsp",
+			"indexOriginal",
+			"tips",
+			"moreDocumentReady",
+			"list.jsp",
+			"mqTemplate",
+			"mq-template",
+			"nrt",
+			"nrt.jsp",
+			"save-",
+			"save-kv-pair",
+			"short-list",
+			"short-list.jsp",
+			"support-team",
+			"team.jsp",
+			"supportTeam",
+			"supportteam",
+			"strategies",
+			"strategies.jsp",
+			"spirals.jsp",
+			"spirals",
+			"spirals.jsp",
+			"table.html",
+			"table2.html",
+			"url(../images",
+			"icon",
+			"png",
+			".p",
+			".png",
+			"moreDocumentReady",
+			"assets/images/",
+			"<jsp:include page=\"includes",
+			"external/jquery/jquery.js",
+			"jquery.mmenu.",
+			"jquery.mmenu",
+			"owl.theme.css",
+			"AjaxLoader.gif",
+			"jquery-1.9.1.min.js",
+			"jquery.sidr.light.css",
+			"jquery.sidr.dark.css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "custom.rg.Scraper.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/github/mhulse/html-dummies/html-dummies.sublime-project"
+			],
+			[
+				"dot",
+				"~/Dropbox/sublime/mhulse/dotfizzles.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
